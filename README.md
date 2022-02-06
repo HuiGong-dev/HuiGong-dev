@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuiGong-dev
 - 👀 I’m interested in web development both front-end and back-end, [Android App development](https://git.scc.kit.edu/rent-and-lend) and using python to automate boring stuff.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning web socket and react.
 - 📫 How to reach me: hellohuigong@gmail.com
 
 <!---
