@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuiGong-dev
-- 👀 I’m interested in web development both front-end and back-end, [Android App development](https://git.scc.kit.edu/rent-and-lend) and using python to automate boring stuff.
-- 🌱 I’m currently learning react.
+- 👀 I’m interested in web development, cloud native app development and using python to automate boring stuff.
+- 🌱 I’m currently learning react,  docker&kubernetes.
 - 📫 How to reach me: hellohuigong@gmail.com
 
 <!---
