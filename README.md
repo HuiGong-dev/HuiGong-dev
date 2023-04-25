@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=py,java,js,react,nodejs,express,graphql,vscode,idea,mongodb,linux&theme=dark" />
+    <img src="https://skills.thijs.gg/icons?i=py,java,js,react,nodejs,express,graphql,vscode,idea,spring,mongodb,linux&theme=dark" />
   </a>
 </p>
 
