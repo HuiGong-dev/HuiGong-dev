@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuiGong-dev
 - 👀 I’m interested in web development, cloud native app development and using python to automate boring stuff.
-- 🌱 I’m currently learning TypeScript, docker&kubernetes.
+- 🌱 I’m currently learning TypeScript, docker&kubernetes, and  microservice architecture.
 - 📫 How to reach me: hellohuigong@gmail.com
 
 
