@@ -10,11 +10,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=huigong-dev&theme=dracula&show_icons=true&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=huigong-dev&theme=dracula&show_icons=true&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huigong-dev&hide=html,css,ejs&layout=compact&theme=dracula&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huigong-dev&hide=html,css,ejs&layout=compact&theme=dracula&hide_border=true"
     height="160"
   />
 </p>
