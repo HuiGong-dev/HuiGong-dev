@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @HuiGong-dev, currently working as a software engineer building IoT-Platform. 
-- 👀 I’m interested in cloud native app development.
-- 🌱 I’m currently learning Golang and kubernetes.
-- 📫 How to reach me: hellohuigong@gmail.com
+👋 Hi, I’m @HuiGong-dev — a Platform Engineer with a solid foundation in backend development and a growing focus on infrastructure.
+
+🔧 I work on building and maintaining developer platforms using Kubernetes (k8s), Docker, and CI/CD pipelines (Azure DevOps), with an eye on scalability, reliability, and automation.
+
+⚙️ Passionate about DevOps, cloud-native technologies, and creating smooth developer experiences.
+
+🌱 Currently deepening my knowledge in Kubernetes, Golang, and infrastructure-as-code — while also staying mindful of system security and long-term maintainability.
+
+📫 Reach me at: hellohuigong@gmail.com
+
+
 
 
 
